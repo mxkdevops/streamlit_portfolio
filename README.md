@@ -16,7 +16,7 @@ https://www.markdownguide.org/cheat-sheet/
 ### ⚙️Installation
 
 ```bash
-pip install streamlit-calendar
+pip install streamlit
 ```
 
 ### ⚙️Create a requirements.txt File: Save the commonly used packages in a requirements.txt file:
