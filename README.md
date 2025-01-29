@@ -4,7 +4,7 @@
 
 
 ```bash
-https://www.markdownguide.org/cheat-sheet/](https://www.youtube.com/watch?v=GZbeL5AcTgw)
+https://www.youtube.com/watch?v=GZbeL5AcTgw
 ```
 
 ###Mark down guide cheat sheet
